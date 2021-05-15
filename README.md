@@ -6,7 +6,7 @@ The different models which were used in the models along with prediction mean an
 ### *_1. Linear Regressor:_*
 	 Mean: 5.030437102767306
 
-	 Standard deviation: 	1.060766115829484
+	 Standard deviation: 1.060766115829484
 
 ### *_2. Decision Tree Regressor:_*
 	 Mean: 4.207225187158817
